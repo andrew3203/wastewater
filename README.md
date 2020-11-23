@@ -45,7 +45,10 @@ Project Organization
     │   │   │                 predictions
     │   │   ├── predict_model.py
     │   │   └── train_model.py
-    │   │
+    │   │
+    │   ├── utils.py       <- Additional helpful scripts
+    │   │
+    │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
     │
